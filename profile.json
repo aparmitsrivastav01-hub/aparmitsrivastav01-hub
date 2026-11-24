@@ -1,0 +1,40 @@
+{
+  "name": "Aparmit Srivastav",
+  "username": "aparmitsrivastav01-hub",
+  "tagline": "I build things that think.",
+  "bio": "IIT Madras Data Science student exploring AI systems, full-stack development and real-world products.",
+  "location": "Lucknow, India",
+  "website": "https://www.aparmit.xyz/",
+  "avatar": "https://avatars.githubusercontent.com/u/240265702?v=4",
+  "colors": {
+    "bg": "#0B0F17",
+    "panel": "#111923",
+    "text": "#F4F1FA",
+    "muted": "#9AA6B8",
+    "accent": "#B69CFF",
+    "line": "#283244"
+  },
+  "projects": [
+    {
+      "name": "FinSight",
+      "label": "AI \u00b7 FINANCIAL TECHNOLOGY",
+      "description": "AI-powered financial document analysis with answers grounded in source documents.",
+      "url": "https://github.com/aparmitsrivastav01-hub/finsight-ai",
+      "repo": "aparmitsrivastav01-hub/finsight-ai"
+    },
+    {
+      "name": "MedEasy",
+      "label": "HEALTHCARE \u00b7 AI",
+      "description": "A medicine discovery and prescription-support ecosystem.",
+      "url": "https://github.com/aparmitsrivastav01-hub/medeasy",
+      "repo": "aparmitsrivastav01-hub/medeasy"
+    },
+    {
+      "name": "PaperCheck AI",
+      "label": "EDTECH \u00b7 AI",
+      "description": "AI-assisted answer-sheet evaluation and feedback.",
+      "url": "https://github.com/aparmitsrivastav01-hub/copychecking",
+      "repo": "aparmitsrivastav01-hub/copychecking"
+    }
+  ]
+}
