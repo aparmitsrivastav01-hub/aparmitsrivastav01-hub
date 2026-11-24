@@ -7,12 +7,12 @@
   "website": "https://www.aparmit.xyz/",
   "avatar": "https://avatars.githubusercontent.com/u/240265702?v=4",
   "colors": {
-    "bg": "#0B0F17",
-    "panel": "#111923",
-    "text": "#F4F1FA",
-    "muted": "#9AA6B8",
-    "accent": "#B69CFF",
-    "line": "#283244"
+    "bg": "#FBF8F3",
+    "panel": "#F5F2EB",
+    "text": "#1A1A1A",
+    "muted": "#6B6B6B",
+    "accent": "#1A1A1A",
+    "line": "#D4D0C8"
   },
   "projects": [
     {
